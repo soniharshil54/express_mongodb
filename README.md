@@ -1,4 +1,4 @@
-# SuratMart
+# EXPRESS_MONGODB_APP
 ### for development
 to run backend `NODE_ENV=development node app.js` or `npm run development`
 
